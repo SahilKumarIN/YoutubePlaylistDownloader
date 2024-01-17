@@ -4,10 +4,12 @@
 *No limits*
 
 **STEP 1:**
-> pip install requirements.py
-
+```bash
+pip install requirements.py
+```
 **STEP 2:**
-> python youtube_playlist_downloader.py
-
+```python
+python Youtube_Playlist_Download.py
+```
 ---
 ### THANK YOU
